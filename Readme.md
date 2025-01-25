@@ -1,4 +1,4 @@
-# Roadmap-To-Learn-Agentic-AI
+# Roadmap To Learn Agentic-AI
 
 ## Prerequisites
 
@@ -23,6 +23,8 @@
 
 ## 3. Website Development (Frontend and Backend) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ENLEjGozrio)
 
+![website-dev.image](https://github.com/AIwithhassan/agentic-ai-roadmap/blob/086ad351340114373a35f8e28532c1a2e1a43ffa/images/web-development.jpeg)
+
 1. Frontend Basic Concepts [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
 
 2. Backend Basic Concepts [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=XBu54nfzxAQ&t=0s)
@@ -34,6 +36,9 @@
 2. Microsoft Azure 
 3. Google Cloud Platform (GCP)
 
+<img src="https://github.com/AIwithhassan/agentic-ai-roadmap/blob/086ad351340114373a35f8e28532c1a2e1a43ffa/images/aws.png" alt="Alt Text" width="300" height="200">
+<img src="" alt="Alt Text" width="300" height="200">
+<img src="" alt="Alt Text" width="300" height="200">
 
 ## 5. Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing
 
@@ -60,10 +65,11 @@
 
 
 
-<img src="" alt="Alt Text" width="300" height="200">
-<img src="" alt="Alt Text" width="300" height="200">
-<img src="" alt="Alt Text" width="300" height="200">
-<img src="" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/AIwithhassan/agentic-ai-roadmap/blob/086ad351340114373a35f8e28532c1a2e1a43ffa/images/ai-2.jpg" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/AIwithhassan/agentic-ai-roadmap/blob/086ad351340114373a35f8e28532c1a2e1a43ffa/images/claude-2.png" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/AIwithhassan/agentic-ai-roadmap/blob/086ad351340114373a35f8e28532c1a2e1a43ffa/images/gemini-logo.png" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/AIwithhassan/agentic-ai-roadmap/blob/086ad351340114373a35f8e28532c1a2e1a43ffa/images/open-ai.png" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/AIwithhassan/agentic-ai-roadmap/blob/086ad351340114373a35f8e28532c1a2e1a43ffa/images/langchain.jpeg" alt="Alt Text" width="300" height="200">
 
 ## 9. Top AGENTIC AI Frameworks
 
