@@ -37,8 +37,8 @@
 3. Google Cloud Platform (GCP)
 
 <img src="https://github.com/AIwithhassan/agentic-ai-roadmap/blob/086ad351340114373a35f8e28532c1a2e1a43ffa/images/aws.png" alt="Alt Text" width="300" height="200">
-<img src="" alt="Alt Text" width="300" height="200">
-<img src="" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/AIwithhassan/agentic-ai-roadmap/blob/38b5e13c45f9c410e0809be07650dfb96cd85fe3/images/azure.jpeg" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/AIwithhassan/agentic-ai-roadmap/blob/38b5e13c45f9c410e0809be07650dfb96cd85fe3/images/gcp.png" alt="Alt Text" width="300" height="200">
 
 ## 5. Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing
 
