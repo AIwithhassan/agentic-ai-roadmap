@@ -1,6 +1,5 @@
 # Roadmap To Learn Agentic-AI
 
-## Prerequisites
 
 ## 1. Learning Mindset
 **Plan long-term:**
