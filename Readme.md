@@ -92,5 +92,5 @@
 ## 11. OPTIONAL: Join AIwithHassan Discord Community
 
 **Discord Link**
-For joining my Discord community, click [here](discord.gg/BVa3d4BrVY).
+For joining my Discord community, here is the invite link: discord.gg/BVa3d4BrVY.
 
